@@ -170,7 +170,7 @@ let _function = ""
 let entry = ""
 let password = ""
 let MONEY = 0
-basic.showString("v8383")
+basic.showString("V.95")
 music.setVolume(255)
 MONEY = 10000
 password = "ABAB"
